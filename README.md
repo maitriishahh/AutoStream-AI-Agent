@@ -50,7 +50,7 @@ project/
 
 ```
 git clone https://github.com/maitriishahh/Social-to-Lead-Agentic-Workflow
-cd Social-to-Lead-Agentic-Workflow
+cd AutoStream-AI-Agent
 ```
 
 ### 2. Install dependencies
