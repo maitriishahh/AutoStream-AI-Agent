@@ -74,6 +74,7 @@ python main.py
 ```
 
 ## Demo Video
+[Watch Demo Video](https://github.com/user-attachments/assets/18b4ad31-21da-4c2b-99b0-74acef13fe67)
 
 The demo showcases:
 
